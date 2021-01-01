@@ -23,10 +23,15 @@ or
 ```python main.py```  
 
 depending on the version of python installed.
- 
+
+#### Some examples:
+```Hello Bro!```  ```Hemlo Bmro!```  
+```Wanna Meet?```  ```Wamna met?```  
+
 ## Contributing Rules:
 
-So, yeah you have fun with this new vocabulary. But certainly you aren't happy with certain words you get. So consider adding new rules.
+So, yeah you have fun with this new vocabulary. But certainly you aren't happy with certain words you get. So consider adding new rules or modifying old ones.
+
 
 #### How can you add?
 
