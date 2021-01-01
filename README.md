@@ -10,7 +10,7 @@
 2. No change in the first and last character.
 3. Replace "oo" with "u"
 4. If the word has 3 characters and ends with consonant, then no change.
-5. If a character get repeated twice, replace the first occurrence of that character with "m".
+5. If a character get repeated twice continuously, replace the first occurrence of that character with "m".
 6. If a vowel comes before a consonant. Insert "m" between them. The following preference is given [u,o,e,i,a]
 7. If a consonant comes before a vowel, insert "m" before that consonant.
 
