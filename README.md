@@ -12,7 +12,6 @@
 4. Replace "ll" with "ml".
 5. If there is only one "l", add "m" after the first vowel before "l".
 
-
 ## Using the function:-
 
 You just need to run the main.py using following command:
