@@ -11,9 +11,10 @@
 3. Replace "oo" with "u"
 4. If the word has 3 characters and ends with consonant, then no change.
 5. If a character get repeated twice continuously, replace the first occurrence of that character with "m".
-6. If a vowel comes before a consonant. Insert "m" between them. The following preference is given [u,o,e,i,a]
-7. If a consonant comes before a vowel, insert "m" before that consonant.
-
+6. Replace first occurrence of "n" with "m".
+7. If a vowel comes before a consonant. Insert "m" between them. The following preference is given [u,o,e,i,a]
+8. If a consonant comes before a vowel, insert "m" before that consonant.
+9. Replace multiple continuous occurrrence of "m" with single "m".
 ## Using the function:-
 
 You just need to run the main.py using following command:
