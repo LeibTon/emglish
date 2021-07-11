@@ -40,4 +40,4 @@ So, yeah you have fun with this new vocabulary. But certainly you aren't happy w
 2. Afraid you can't code. No problem. Just add the rule in "Rules for new vocabulary" and add [new rule] after your new rule and we will write the code for you.
 
 ##### Let's Enjoy.
-##### Thank You.
+#### Thanks.
