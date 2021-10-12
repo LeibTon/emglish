@@ -34,7 +34,7 @@ depending on the version of python installed.
 So, yeah you have fun with this new vocabulary. But certainly you aren't happy with certain words you get. So consider adding new rules or modifying old ones.
 
 
-#### How can you add?
+#### How can you add??
 
 1. Add new rule in "Rules for new vocabulary" and add the required code in main.py.
 2. Afraid you can't code. No problem. Just add the rule in "Rules for new vocabulary" and add [new rule] after your new rule and we will write the code for you.
